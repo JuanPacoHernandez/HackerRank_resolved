@@ -1,3 +1,3 @@
 # HackerRank_resolved
 
-Solutions for HackerRank challenges, hope you find this useful
+Solutions (in Python) for HackerRank challenges, hope you find this useful
